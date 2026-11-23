@@ -1,0 +1,6 @@
+{
+  "name": "FACEBOOK GROUP MANAGER AI",
+  "description": "Bảng điều khiển SaaS quản trị nhóm Facebook mua bán, trao đổi voucher Got It, UrBox, Gift Card tích hợp Gemini AI tạo nội dung, lên lịch đăng, kiểm duyệt rủi ro và trợ lý bình luận.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
